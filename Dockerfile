@@ -13,4 +13,4 @@ RUN apt-get update && \
     rm -f /tmp/*
 
 ENTRYPOINT [ "hugo" ]
-CMD ["help"]
+# CMD ["help"]
