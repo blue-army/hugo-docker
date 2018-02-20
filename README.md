@@ -1,6 +1,6 @@
 # hugo-docker
 
-Image contains the required assemblies to generate hugo documentation.
+Image containing the required assemblies to generate hugo documentation. Just run the container with the appropriate folder mounted, and call the hugo api.
 
 ## Run
 
