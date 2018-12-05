@@ -1,7 +1,7 @@
 FROM debian:jessie-slim
 LABEL maintainer="lucas-natraj" 
 
-ENV HUGO_VER 0.32.3
+ENV HUGO_VER 0.52
 
 RUN apt-get update && \
     apt-get install unzip wget -y && \
